@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Firmware Development**
 
-- 👨‍💻 Boards Hands-on Experience **Intel CRB (x86), ARM Cortex -A, Beaglebone Black, Raspbery Pie, ESP Node MCU**
+- 👨‍💻 Boards Hands-on Experience **Intel CRB (x86), ARM Cortex -A, Beaglebone Black, Raspberry Pi, ESP Node MCU**
 
 - 💬 Ask me about **UEFI/BIOS Development, Debugging, Embedded, UEFI Driver/Application development**
 
