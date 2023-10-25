@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohit Savner</h1>
 <h3 align="center">A Passionate Firmware developer from India</h3>
 
-- 🔭 I’m currently working on **UEFI Driver Development**
+- 🔭 I’m currently working on **Device Driver Development**
 
-- 🌱 I’m currently learning **RISCV, ARM Cortex - A**
+- 🌱 I’m currently learning **ARM Cortex - A, IPC, RISCV**
 
 - 👯 I’m looking to collaborate on **Firmware Development**
 
-- 👨‍💻 Boards Hands-on Experience **Intel CRB (x86), ARM Cortex -A, Beaglebone Black, Raspberry Pi, ESP Node MCU**
+- 👨‍💻 Boards Hands-on Experience **Intel CRB (x86), ARM Cortex - A, Beaglebone Black, Raspberry Pi, ESP Node MCU**
 
-- 💬 Ask me about **UEFI/BIOS Development, Debugging, Embedded, UEFI Driver/Application development**
+- 💬 Ask me about **UEFI/BIOS Development, FSP/GFSP, coreboot, Debugging, Embedded, UEFI Driver/Application development, C/C++**
 
 - 📫 How to reach me **mohitsavner005@gmail.com**
 
