@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Savner</h1>
 <h3 align="center">A Passionate Firmware developer from India</h3>
 
-- 🔭 I’m currently working on **Device Driver Development**
+- 🔭 I’m currently working on **UEFI, Device Driver Development**
 
 - 🌱 I’m currently learning **ARM Cortex - A, IPC, RISCV**
 
