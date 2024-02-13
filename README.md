@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UEFI, Device Driver Development**
 
-- 🌱 I’m currently learning **ARM Cortex - A, IPC, RISCV**
+- 🌱 I’m currently learning **ARM Cortex - A, IPC, Linux Device Driver, Kernel Programming**
 
 - 👯 I’m looking to collaborate on **Firmware Development**
 
